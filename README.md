@@ -4,7 +4,7 @@ Install mongod and setup mongodb compass(GUI)
 
 connect default mongDB port in mongoDB compass
 
-go get -u github.com/gin-gonic/gin run this command go-gin-crud-auth directory of your local git
+go get -u github.com/gin-gonic/gin run this command go-gin directory of your local git
 
 go mod tidy run this command go-gin-crud-auth directory of your local git
 
